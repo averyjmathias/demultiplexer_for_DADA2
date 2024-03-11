@@ -9,7 +9,7 @@ This script has been tested in MacOS X. It should work in Linux as well, but I t
 
 The script relies mostly on R pckages. Besides that, you will need the latest version of cutadapt (https://cutadapt.readthedocs.io/en/stable/index.html).
 
-### R packages
+# R packages
 
 Checking whether you have the right R packages installed before running R is complicated - and you don't want to realise you don't have them by the time the pipeline gets there. So please check that you have these packages installed:
 
